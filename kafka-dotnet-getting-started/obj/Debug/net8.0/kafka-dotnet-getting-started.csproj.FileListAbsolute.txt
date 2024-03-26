@@ -1,0 +1,14 @@
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\bin\Debug\net8.0\kafka-dotnet-getting-started.exe
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\bin\Debug\net8.0\kafka-dotnet-getting-started.deps.json
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\bin\Debug\net8.0\kafka-dotnet-getting-started.runtimeconfig.json
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\bin\Debug\net8.0\kafka-dotnet-getting-started.dll
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\bin\Debug\net8.0\kafka-dotnet-getting-started.pdb
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.AssemblyInfoInputs.cache
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.AssemblyInfo.cs
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.csproj.CoreCompileInputs.cache
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.dll
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\refint\kafka-dotnet-getting-started.dll
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.pdb
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\kafka-dotnet-getting-started.genruntimeconfig.cache
+C:\Workspace\kafka-dotnet-getting-started\kafka-dotnet-getting-started\obj\Debug\net8.0\ref\kafka-dotnet-getting-started.dll

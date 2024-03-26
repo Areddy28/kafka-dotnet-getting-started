@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "kafka-dotnet-getting-started/1.0.0": {
+        "runtime": {
+          "kafka-dotnet-getting-started.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kafka-dotnet-getting-started/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
