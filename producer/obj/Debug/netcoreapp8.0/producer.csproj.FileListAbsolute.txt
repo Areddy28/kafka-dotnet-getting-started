@@ -49,3 +49,4 @@ C:\Workspace\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp8.0\refin
 C:\Workspace\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp8.0\producer.pdb
 C:\Workspace\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp8.0\producer.genruntimeconfig.cache
 C:\Workspace\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp8.0\ref\producer.dll
+C:\Workspace\kafka-dotnet-getting-started\producer\obj\Debug\netcoreapp8.0\producer.sourcelink.json
