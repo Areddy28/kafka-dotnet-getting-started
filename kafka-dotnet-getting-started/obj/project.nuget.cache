@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mKHV79IjnyJJ0RtCgLkQ3NZzjoaNIQrXXTgPAxYPLIo2X3P6hbiNuWH3kZ5I05xT7mPvfHGrDvOg8A87KQkPKA==",
+  "dgSpecHash": "wTYImWnb1jpqw8sr9+R466e82GMsZJ0pscgmjNOrvWJWL4m1oGO/9LA4zPwu6HJvvQCTIyGl1WSq/IBv3SPgeg==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\kafka-dotnet-getting-started\\kafka-dotnet-getting-started\\kafka-dotnet-getting-started.csproj",
   "expectedPackageFiles": [],

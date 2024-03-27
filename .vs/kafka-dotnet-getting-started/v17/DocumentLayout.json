@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\kafka-dotnet-getting-started\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\producer\\producers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|solutionrelative:producer\\producers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\consumer\\consumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|solutionrelative:consumer\\consumers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF331E5-8499-41DC-B1A0-D24A59E7EBCC}|Solution Items{7FF331E5-8499-41DC-B1A0-D24A59E7EBCC}|C:\\Workspace\\kafka-dotnet-getting-started\\getting-started.properties||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FF331E5-8499-41DC-B1A0-D24A59E7EBCC}|Solution Items{7FF331E5-8499-41DC-B1A0-D24A59E7EBCC}|solutionrelative:getting-started.properties||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC1B9D6B-6372-4708-AB89-5D2A7332F3CE}|producer\\producer.csproj|solutionrelative:producer\\producer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86377596-C3FE-4C1A-B3BC-C39118F3DCA5}|kafka-dotnet-getting-started\\kafka-dotnet-getting-started.csproj|c:\\workspace\\kafka-dotnet-getting-started\\kafka-dotnet-getting-started\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86377596-C3FE-4C1A-B3BC-C39118F3DCA5}|kafka-dotnet-getting-started\\kafka-dotnet-getting-started.csproj|solutionrelative:kafka-dotnet-getting-started\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|c:\\workspace\\kafka-dotnet-getting-started\\consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F476CB26-42F3-417D-8FAC-7B9E29B9099D}|consumer\\consumer.csproj|solutionrelative:consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "consumers.cs",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\consumers.cs",
+              "RelativeDocumentMoniker": "consumer\\consumers.cs",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\consumers.cs",
+              "RelativeToolTip": "consumer\\consumers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:59:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getting-started.properties",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\getting-started.properties",
+              "RelativeDocumentMoniker": "getting-started.properties",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\getting-started.properties",
+              "RelativeToolTip": "getting-started.properties",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-26T17:50:55.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "producers.cs",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\producers.cs",
+              "RelativeDocumentMoniker": "producer\\producers.cs",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\producers.cs",
+              "RelativeToolTip": "producer\\producers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:59:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "consumer.csproj",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\consumer.csproj",
+              "RelativeDocumentMoniker": "consumer\\consumer.csproj",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\consumer.csproj",
+              "RelativeToolTip": "consumer\\consumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T17:41:17.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "producer.csproj",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\producer.csproj",
+              "RelativeDocumentMoniker": "producer\\producer.csproj",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\producer.csproj",
+              "RelativeToolTip": "producer\\producer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T17:40:54.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\Program.cs",
+              "RelativeDocumentMoniker": "consumer\\Program.cs",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\consumer\\Program.cs",
+              "RelativeToolTip": "consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:40:50.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\Program.cs",
+              "RelativeDocumentMoniker": "producer\\Program.cs",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\Program.cs",
+              "RelativeToolTip": "producer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:40:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\kafka-dotnet-getting-started\\kafka-dotnet-getting-started\\Program.cs",
+              "RelativeDocumentMoniker": "kafka-dotnet-getting-started\\Program.cs",
+              "ToolTip": "C:\\Workspace\\kafka-dotnet-getting-started\\kafka-dotnet-getting-started\\Program.cs",
+              "RelativeToolTip": "kafka-dotnet-getting-started\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T17:37:41.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

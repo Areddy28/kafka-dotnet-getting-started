@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kafka-dotnet-getting-started")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1de58390fd41886e93caefee70e079c39ca81c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a37eeee0e31834b1991832c549e2ebb1fc022a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("kafka-dotnet-getting-started")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kafka-dotnet-getting-started")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

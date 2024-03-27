@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DDmnyzlyYwxJzRhhpGK5CpyxyyWhFM88xaS9+UXXMgT6yTuIkMW93tOsG3dUij47fTl/NOWykcAr7jA0yt6OFA==",
+  "dgSpecHash": "qJV07CgRwM2Hr6wRYPYd8DIB2StMSk3w2DmkLmxyudbh9FYAGduJcdTkgwFdfxtZfmcr9V1jsJe4nrArmNPAsw==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\kafka-dotnet-getting-started\\producer\\producer.csproj",
   "expectedPackageFiles": [
